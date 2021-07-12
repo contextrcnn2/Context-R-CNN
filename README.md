@@ -7,8 +7,10 @@ contributions:
 3. Rishabh: worked on the codes of library functions of the long term memory bank i.e library2 file.
 4. Vaishnavi: worked on the meta-arch construction i.e ARCHITECTURE file. Used the library fucntions and imported faster RCNN to construct the arch.
 
+we got results from the pre-trained model on images of one camera from the SS dataset.
+
 * Everyone worked on the literature review part.
 ** we directly imported the faster RCNN model from tensorflow.
 
 Future work:
-In the next 10 days, we aim to re-train or fine tune the pre-trained model. also, aim to complete the meta arch. The meta arch. is not possible to train from scratch due to computational resources limitations. that's why we'll be doing the training part on pre-trained model as told by the mentors.
+In the next 10 days, we aim to re-train or fine tune the pre-trained model on another dataset which comprises of the imags from a different camera in the same national park. also, aim to complete the meta arch. The meta arch. is not possible to train from scratch due to computational resources limitations. that's why we'll be doing the training part on pre-trained model as told by the mentors.
