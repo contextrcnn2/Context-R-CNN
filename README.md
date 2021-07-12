@@ -22,3 +22,5 @@ we got results from the pre-trained model on images of one camera from the SS da
 
 Future work:
 In the next 10 days, we aim to re-train or fine tune the pre-trained model on another dataset which comprises of the images from a different camera in the same national park.  also, aim to complete the meta arch. The meta arch. is not possible to train from scratch due to computational resources limitations. that's why we'll be doing the re-training part on pre-trained model as told by the mentors. 
+
+Literature review : https://docs.google.com/document/d/1wXHzj0X3gn3V_vPpE0LsbqMRVFbuQ2FDm1bKg60_Ri0/edit?usp=sharing 
