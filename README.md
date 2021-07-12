@@ -2,8 +2,11 @@
 The repo consists of 4 files. First one is the loaded pre-trained model. other two are the library functions for the meta-arch. Last one is the architecture construction.
 
 library1: consists of the library fucntions used to construct the short term memory bank, like weights and values filters and the generic attention block.
+
 library2: consists of the library functions used to construct the long term memory bank. it includes context projectors, another attention block and extractors.
+
 ARCHITECTURE: imported the faster RCNN meta architecure and other utilities like box_predictor from tensorflow. then used the library functions defined earlier to construct the meta-arch of the Conext RCNN.
+
 PRE_TRAINED: preprcoessed the dataset by defining the bounding boxes for the dataset images along with uploading the JSON config files for the test and train data. plotted the bounding boxes on the test images. Further the pre-processed dataset will be used to re-train.
 
 contributions: 
